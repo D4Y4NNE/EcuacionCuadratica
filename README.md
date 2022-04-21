@@ -1,2 +1,0 @@
-# EcuacionCuadratica
-Codigo en java
